@@ -355,6 +355,12 @@ section.success a.active {
     }
 }
 
+#about code {
+    background-color: transparent;
+    color: #ecf0f1;
+    font-size: 100%;
+}
+
 .btn-outline {
     margin-top: 15px;
     border: solid 2px #fff;
