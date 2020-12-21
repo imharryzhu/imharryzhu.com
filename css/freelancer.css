@@ -580,33 +580,7 @@ footer .footer-fuck > a {
     display: none;
     opacity: 0;
 }
-/* 
-#works-bus-modal #bus-introduce .carousel-indicators > li {
-    border-color: #ccc;
-}
-
-#works-bus-modal #bus-introduce .carousel-indicators .active {
-    background-color: #ccc;
-}
-
-@media(min-width:767px) {
-    #works-bus-modal .img-icon {
-        max-width: 290px;
-    }
-    #works-bus-modal #bus-introduce .carousel-control {
-        opacity: 0;
-
-        -webkit-transition: top .3s ease,opacity .3s ease;
-        -moz-transition: top .3s ease,opacity .3s ease;
-        -ms-transition: top .3s ease,opacity .3s ease;
-        transition: top .3s ease,opacity .3s ease;
-    }
-
-    #works-bus-modal #bus-introduce .carousel-control:hover {
-        opacity: 1;
-    }
-}
 
 .white-a {
     color: #2c3e50;
-} */
+}
