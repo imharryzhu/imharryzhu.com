@@ -505,7 +505,7 @@ footer .footer-fuck > a {
     }
 
     .portfolio-modal .carousel-control {
-        opacity: 0;
+        opacity: 0.5;
         -webkit-transition: top .3s ease,opacity .3s ease;
         -moz-transition: top .3s ease,opacity .3s ease;
         -ms-transition: top .3s ease,opacity .3s ease;
